@@ -1,4 +1,4 @@
-# csr-app
+# Chronics pool
 Front end for Chronics Pool
 
 Run development application with:
